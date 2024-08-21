@@ -6,6 +6,7 @@
 #define vl vector<long long int>
 #define read(arr, high) for(int i=0;i<high;i++){cin>>arr[i];}
 #define loop(i, high) for(int i=0;i<high;i++)
+#define fastio() ios_base::sync_with_stdio(false); cin.tie(NULL);
 using namespace std;
 
 void solve(){
