@@ -10,13 +10,10 @@
 using namespace std;
 
 void solve(){
-    int n;
-    cin>>n;
-    vi arr(n);
-    read(arr, n);
-    loop(i, n){
-        cout<<arr[i]<<" ";
-    }
+    // int n;
+    // cin>>n;
+    // vi arr(n);
+    // read(arr, n);
 }
 
 int main(){
