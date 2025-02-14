@@ -10,8 +10,8 @@
 using namespace std;
 
 void solve(){
-    // int n;
-    // cin>>n;
+    int n;
+    cin>>n;
     // vi arr(n);
     // read(arr, n);
 }
